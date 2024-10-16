@@ -26,7 +26,7 @@ Este aplicativo de self-checkout personalizado que se integra com o sistema ERP 
 ![](https://raw.githubusercontent.com/renatosantoslw/pdv-self-comanda/refs/heads/main/TELAS/COMANDA-IMPRESSA.png)
 
 ## Links Telas - Videos
-
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 * [Video 1][video1]
 * [Video 2][video2]
 * [Video 3][video3]
