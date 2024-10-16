@@ -13,9 +13,6 @@ Este aplicativo de self-checkout personalizado que se integra com o sistema ERP 
 > ** Requer .NET Framework ``4.5+``** <br>
 > ** Requer Crystal Reports ``13.0+``**
 
-## Tela
-![](https://raw.githubusercontent.com/renatosantoslw/pdv-self-comanda/refs/heads/main/TELAS/TELA.gif)
-
 ## Tela-Principal
 ![](https://raw.githubusercontent.com/renatosantoslw/pdv-self-comanda/refs/heads/main/TELAS/PRINCIPAL.png)
 
